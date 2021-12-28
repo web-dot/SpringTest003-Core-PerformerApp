@@ -2,7 +2,7 @@ Core Spring TestApp
 
 Requirement:<br />
 
-There are different types of Persformers, Performers come to auditorium and perform.<br />
+There are different types of Performers, Performers come to auditorium and perform.<br />
 When the program is run a variety of performers should be seen performing in auditorium.<br />
 
 A Juggler is a Performer. When a Juggler is asked to perform, he juggles.A juggler needs<br />
