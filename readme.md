@@ -1,4 +1,4 @@
-#Core Spring TestApp using Java Configuration
+# Core Spring TestApp using Java Configuration
 
 ##Requirement:<br />
 
