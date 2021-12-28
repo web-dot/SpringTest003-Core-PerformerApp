@@ -16,13 +16,13 @@ the number of rings. A Poem is something that can be recited. PoeticJuggler has 
 
 #### 0] Understand req, apply ooad, come up with class design.<br />
 #### 1] create class definition as POJOS[follow Best Practices]<br />
-         ###### BestPractices:<br />
+          BestPractices:<br />
                   a]code the pojos that does not belong to any library<br />
                   b]code to the parent reference.<br />
                   c]externalize all the dependencies.<br />
                   d]override equals, hashcode and toString<br />
 #### 2]Configure Spring beans:<br />
-         ###### Configuration:<br />
+          Configuration:<br />
                   a]using xml<br />
                   b]using annotations<br />
 #### 3]in main<br />
