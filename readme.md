@@ -8,6 +8,8 @@ When the program is run a variety of performers should be seen performing in aud
 A Juggler is a Performer. When a Juggler is asked to perform, he juggles.A juggler needs<br />
 rings to juggle. And he juggles that number of rings. Every juggler at a minimum juggles 3 rings.<br />
 
+There are PoeticJugglers, when asked to perform a PoeticJuggler will recite a poem and will juggle<br />
+the number of rings. A Poem is something that can be recited. PoeticJuggler has a Poem.<br />
 
 
 Steps to follow a spring based application:<br />
@@ -34,10 +36,7 @@ Steps to follow a spring based application:<br />
          e]Ask Spring container to handout instantiated, Dependency Injected, Autowired beans.<br />
          f]invoke behaviours  <br />
          <br />
-         
-There are PoeticJugglers, when asked to perform a PoeticJuggler will recite a poem and will juggle<br />
-the number of rings. A Poem is something that can be recited. PoeticJuggler has a Poem.<br />
-                          
+                                  
          
          
          
