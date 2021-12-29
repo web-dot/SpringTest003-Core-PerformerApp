@@ -10,9 +10,7 @@ import org.springframework.context.annotation.Scope;
 @Configuration
 @ComponentScan(basePackages = "com.mavenspring.SpringTest003_Core_PerformerApp")
 public class AppConfig {
+	
 
-	@Bean
-	public Juggler getJuggler(@Value("${10}") int numRings) {
-		return new Juggler();
-	}
+	
 }
